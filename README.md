@@ -16,3 +16,9 @@ Even if you don't plan to take the exam, these courses will help you gain a soli
 
 Software development experience
 Microsoft Azure experience
+
+*Resources*
+1. https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
+2. https://www.whizlabs.com/microsoft-azure-certification-az-204/
+3. https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/
+4. https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-204 (Only if you think above resources are not sufficient for you - rest it is optional)
